@@ -2,10 +2,8 @@
 Name: PREGNANCY TRACKER
 Team:ExID
 Members:
-Hanna Antony
-Annapoornna P
-Akshay K
-Arsha M Joby
+Devamittran M
+Sukesh S
 
 Description:-
  

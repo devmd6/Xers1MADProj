@@ -1,10 +1,9 @@
 
 Name: PREGNANCY TRACKER
-Team:ExID
 Members:
-Devamittran M
-Sukesh S
-
+Devamittran M - CB.EN.U4ECE20115
+Sukesh S      - CB.EN.U4ECE20158
+ 
 Description:-
  
 This app is targeted for pregnant ladies, helps to keep track of their progress day by day and manage their pregnancy related things.
